@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm <a href="https://www.ghasemizade.com/">Xein Ghasemi!</a></h1>
+<h1> Hi there 👋, I'm <a href="https://www.ghasemizade.com/">Xein Ghasemi.</a></h1>
 <h3 > Frontend Engineer 💻</h3>
 
 [**![me-telegram](https://github.com/ghasemizade/Ghasemizade/assets/92257857/5ffd6217-a84f-4a48-b7b5-ecf52112aebd)**][telegram]  [**![me-gmail](https://github.com/ghasemizade/Ghasemizade/assets/92257857/a4a6ff93-780e-47f3-b840-2ef3af18430d)**][email]

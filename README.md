@@ -4,11 +4,6 @@
 [**![me-telegram](https://github.com/ghasemizade/Ghasemizade/assets/92257857/5ffd6217-a84f-4a48-b7b5-ecf52112aebd)**][telegram]  [**![me-gmail](https://github.com/ghasemizade/Ghasemizade/assets/92257857/a4a6ff93-780e-47f3-b840-2ef3af18430d)**][email]
 [**![me-linkedin](https://github.com/ghasemizade/Ghasemizade/assets/92257857/8810381b-bc2b-4e59-8c39-5a1c81bc8ffb)**][linkedin]
 
-  <br>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghasemizade&langs_count=6&layout=compact&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=00000000&border_radius=15&border_color=00000000&hide=jupyter%20notebook"/>
-  </a>
-</div> 
 
 [jibres]: https://jibres.com 
 [website]: https://ghasemizade.com
